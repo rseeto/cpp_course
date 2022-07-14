@@ -1,0 +1,11 @@
+Title|Rank|Worldwide Gross|Year|Tomatometer|Copies Available
+Avatar|1|$2,787,965,087|2009|83|10
+Titanic|2|$2,186,772,302|1997|88|10
+Star Wars: The Force Awakens|3|$2,068,178,225|2015|92|10
+Jurassic World|4|$1,670,400,637|2015|71|10
+The Avengers|5|$1,519,557,910|2012|92|10
+Furious 7|6|$1,516,045,911|2015|79|10
+Avengers: Age of Ultron|7|$1,405,413,868|2015|75|10
+Harry Potter and the Deathly Hallows – Part 2|8|$1,341,511,219|2011|96|10
+Frozen|9|$1,287,000,000|2013|89|10
+Iron Man 3|10|$1,215,439,994|2013|79|10
