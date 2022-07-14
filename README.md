@@ -1,13 +1,13 @@
 # C++ course
 ## Description
-This repository contains exercises associated with a course on C++. The 
+This repository contains exercises associated with a course on C++. The  
 exercise descriptions are as follows:
 
 ### Exercise 1
 1. Create a program that will read the contents of a file and counts the  
 whitespace-separated words in the file.
 2. Create a program that read the contents of a text file and display the lines  
-of the file one at a time. The program will wait for the user to press the 
+of the file one at a time. The program will wait for the user to press the  
 enter key before displaying the subsequent line in the file.
 3. Create a program that displays all prime numbers from 1 to 10,000. The  
 program should use two nested for loops and the modulus operator (%) to  
@@ -28,16 +28,16 @@ instances and fill them with data read from a test input file to test the data
 type. Display the DVD information.
 2. Create a program which contains a Hen class. Inside the Hen class, create a  
 Nest class. Inside the Nest class, create an Egg class. A display() member  
-function should be include in every class. In addition, each class should have 
-a constructor and destructor that prints an appropriate message when called. 
-In main(), create a new instance of each class and call the display() function 
+function should be include in every class. In addition, each class should have  
+a constructor and destructor that prints an appropriate message when called.  
+In main(), create a new instance of each class and call the display() function  
 for each class. Use delete to clear the storage after calling display().
 3. Create a program with a Text class that has a string object that hold the  
 text of a file. The text class should have two constructors: a default  
 constructor and a constructor that accepts a string parameter that is the name  
-of the file to open. Have the second constructor open the file and read the 
-data into the string member object. Create a member function called contents()
-that returns the string so it can be displayed. In main(), have Text open the
+of the file to open. Have the second constructor open the file and read the  
+data into the string member object. Create a member function called contents()  
+that returns the string so it can be displayed. In main(), have Text open the  
 file and display the contents.
 
 ### Exercise 3
@@ -76,9 +76,9 @@ for the calculation. Compare the processing time for Exercise 2, Question 2
 	circumference, and bounding box).
 	3. Extend the hierarchy by creating Shape classes of Circle, Square, and  
 	Triangle. For these derived classes, have default constructors and  
-	constructors whose arguments can correctly initialize the dahpes using the  
-	correct number of Points (i.e., Circle requires a Point centre and a 
-	radius; Square requires four Point vertices, while Triangle requires three
+	constructors whose arguments can correctly initialize the shapes using the  
+	correct number of Points (i.e., Circle requires a Point centre and a  
+	radius; Square requires four Point vertices, while Triangle requires three  
 	Point vertices).
 	4. Create one of each of the following in main(): a Circle with a radius of  
 	23, a Square with sides of 25, and a Triangle with sides of 10, 20, and 30.  
